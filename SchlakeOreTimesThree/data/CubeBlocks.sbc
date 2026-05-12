@@ -3,7 +3,7 @@
   <CubeBlocks>
 
     <!-- CubeBlocks copied from SE 1.209 (Economy 2) -->
-    <!-- Doubled the MaximumRange for each detector -->
+    <!-- Tripled the MaximumRange for each detector -->
 
    <Definition xsi:type="MyObjectBuilder_OreDetectorDefinition">
             <Id>
